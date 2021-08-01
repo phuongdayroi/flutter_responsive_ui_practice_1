@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 class ThemeConstants{
 static const double kPadding = 10.0;
-static const Color purpleDark = Color(0xff3c096c);
-static const Color purpleLight = Color(0xff5a189a);
+static const Color purpleDark = Color(0xff10002b);
+static const Color purpleLight = Color(0xFF350ea8 );
 static const Color orangeLight = Color(0xfff8961e);
 static const Color orangeDark = Color(0xfff3722c);
 static const Color redLight = Color(0xffef233c);
